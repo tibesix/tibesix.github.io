@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d478a807-6033-4a3a-85fb-3be022515402" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo 3/opdracht contact information.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 3/opdracht onderwijsaanbod.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo 3/Opdracht 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/Opdracht 3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo 3/opdracht 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/opdracht 1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo 3/opdracht 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/opdracht 2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo 3/over mij.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/over mij.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 3/personal homepage.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728460600671</updated>
       <workItem from="1728460601816" duration="2708000" />
-      <workItem from="1728484549971" duration="2835000" />
+      <workItem from="1728484549971" duration="4015000" />
     </task>
     <servers />
   </component>
