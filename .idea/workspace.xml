@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d478a807-6033-4a3a-85fb-3be022515402" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo 3/opdracht 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/opdracht 2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tibesix.github.io.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fake.labo/labo.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Opdracht 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/Opdracht 3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/opdracht 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/opdracht 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/opdracht 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/opdracht 2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728460600671</updated>
-      <workItem from="1728460601816" duration="893000" />
+      <workItem from="1728460601816" duration="2612000" />
     </task>
     <servers />
   </component>
