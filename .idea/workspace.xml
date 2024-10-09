@@ -41,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.opdracht onderwijsaanbod.html.executor": "Run",
     "JavaScript Debug.over mij.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -69,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728460600671</updated>
       <workItem from="1728460601816" duration="2708000" />
-      <workItem from="1728484549971" duration="4407000" />
+      <workItem from="1728484549971" duration="4556000" />
     </task>
     <servers />
   </component>
