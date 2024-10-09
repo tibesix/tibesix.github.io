@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d478a807-6033-4a3a-85fb-3be022515402" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo 3/over mij.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 3/personal homepage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo 3/Opdracht 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/Opdracht 3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo 3/opdracht 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/opdracht 1.html" afterDir="false" />
@@ -26,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2nBy80jtZzykC1GuGYiOvsiXrSb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,6 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.over mij.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/tibes/Documents/GitHub/tibesix.github.io",
@@ -63,7 +66,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728460600671</updated>
-      <workItem from="1728460601816" duration="2612000" />
+      <workItem from="1728460601816" duration="2708000" />
+      <workItem from="1728484549971" duration="2749000" />
     </task>
     <servers />
   </component>
