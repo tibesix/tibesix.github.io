@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d478a807-6033-4a3a-85fb-3be022515402" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/opdracht 2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo 3/Opdracht 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/Opdracht 3.html" afterDir="false" />
@@ -14,6 +14,7 @@
       <change beforePath="$PROJECT_DIR$/Labo 3/opdracht contact information.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/opdracht contact information.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo 3/opdracht onderwijsaanbod.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/opdracht onderwijsaanbod.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo 3/over mij.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/over mij.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 4/Opdracht 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 4/Opdracht 1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +86,7 @@
       <workItem from="1728639649869" duration="13000" />
       <workItem from="1728651182655" duration="408000" />
       <workItem from="1728830008637" duration="345000" />
-      <workItem from="1729063321288" duration="1297000" />
+      <workItem from="1729063321288" duration="2527000" />
     </task>
     <servers />
   </component>
