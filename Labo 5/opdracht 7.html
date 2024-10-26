@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <title>Verschil tussen em en ex</title>
+  <style>
+    h1 {
+      font-size: 2ex; /* Hoofding h1 met 2ex */
+    }
+    h2 {
+      font-size: 2em; /* Hoofding h2 met 2em */
+    }
+  </style>
+</head>
+<body>
+<h1>Hoofding h1 (2ex)</h1>
+<h2>Hoofding h2 (2em)</h2>
+
+<p>
+  In CSS is er een belangrijk verschil tussen <code>em</code> en <code>ex</code> eenheden:
+</p>
+<ul>
+  <li>
+    <strong><code>em</code></strong> is een relatieve eenheid die gebaseerd is op de fontgrootte van het element zelf of de parent.
+    Dit betekent dat als de fontgrootte van de parent bijvoorbeeld 16px is, <code>1em</code> gelijk is aan 16px, en dus <code>2em</code> gelijk is aan 32px.
+  </li>
+  <li>
+    <strong><code>ex</code></strong> is een minder gebruikelijke eenheid die is gebaseerd op de hoogte van de letter "x" in het gebruikte lettertype.
+    De exacte waarde van <code>ex</code> kan variëren, maar het is meestal ongeveer de helft van de hoogte van de letter in <code>px</code>.
+  </li>
+</ul>
+
+<p>
+  In de meeste gevallen is <code>1em</code> groter dan <code>1ex</code>. Daarom zal de hoofding <code>h2</code>, die is ingesteld op <code>2em</code>,
+  waarschijnlijk groter zijn dan de hoofding <code>h1</code>, die is ingesteld op <code>2ex</code>.
+</p>
+
+<p>
+  Samenvattend: <strong>h2 wordt groter weergegeven dan h1</strong> omdat <code>2em</code> over het algemeen groter is dan <code>2ex</code>.
+</p>
+</body>
+</html>
