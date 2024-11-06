@@ -1,0 +1,14 @@
+a {
+    display: inline-block;
+    padding-left: 20px;
+    color: darkblue;
+    text-decoration: none;
+    background-image: url('../Icon/bmw.svg');
+    background-size: 16px 16px;
+    background-position: left center;
+    background-repeat: no-repeat;
+}
+
+a:hover {
+    color: darkred; /* Kleurverandering bij hover */
+}

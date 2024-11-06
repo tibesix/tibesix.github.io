@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    color: #333;
+}
+
+.checklist {
+    list-style-type: none;
+    padding: 0;
+}
+
+.checklist li {
+    padding-left: 24px;
+    background-image: url('../ICON/checkbox-unchecked-svgrepo-com.svg');
+    background-size: 16px 16px;
+    background-position: left center;
+    background-repeat: no-repeat;
+    margin-bottom: 8px;
+}
+
+.checklist li.checked {
+    background-image: url('../ICON/check-3278.svg');
+}
