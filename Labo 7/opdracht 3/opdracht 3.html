@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Samenvatting CSS Specificiteit</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        .highlight {
+            background-color: #f0f0f0;
+            padding: 5px;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+
+<p>De oorspronkelijke regel <span class="highlight">.onbekend { background-color: red; }</span> werkt niet in combinatie met
+    <span class="highlight">.alt</span> door een lagere specificiteit. Door <span class="highlight">.alt .onbekend</span> toe te voegen,
+    wordt de specificiteit verhoogd, zodat <span class="highlight">onbekend</span> cellen in <span class="highlight">alt</span> rijen
+    ook een rode achtergrond krijgen.</p>
+
+</body>
+</html>

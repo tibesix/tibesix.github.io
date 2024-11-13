@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d478a807-6033-4a3a-85fb-3be022515402" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo 7/CSS/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht 1/Opdracht 7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht 2/opdracht 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht 2/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht 3/opdracht 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht kalender/CSS/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht kalender/opdracht kalender.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 6/opdracht 5/opdracht 5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 6/opdracht 5/opdracht 5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 7/CSS/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 7/Opdracht 1/CSS/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 7/Images/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 7/Opdracht 1/Images/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 7/Opdracht 1/Opdracht 7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 7/Opdracht 2/opdracht 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 7/Opdracht 2/styles.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -115,7 +118,8 @@
       <workItem from="1731426274947" duration="1116000" />
       <workItem from="1731428595038" duration="398000" />
       <workItem from="1731485760113" duration="205000" />
-      <workItem from="1731486228049" duration="4676000" />
+      <workItem from="1731486228049" duration="4711000" />
+      <workItem from="1731510412208" duration="726000" />
     </task>
     <servers />
   </component>
