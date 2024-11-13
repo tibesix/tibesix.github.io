@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d478a807-6033-4a3a-85fb-3be022515402" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo 6/opdracht 1/CSS/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/opdracht 1/opdracht 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/opdracht 3/CSS/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/opdracht 3/opdracht 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/opdracht 4/CSS/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/opdracht 4/opdracht 4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/opdracht 5/CSS/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/opdracht 5/opdracht 5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/opdracht 6/CSS/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/opdracht 6/opdracht 6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/CSS/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht 1/Opdracht 7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht 2/opdracht 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht 2/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/opdracht 5/opdracht 5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 6/opdracht 5/opdracht 5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,27 +37,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.opdracht contact information.html.executor": "Run",
-    "JavaScript Debug.opdracht onderwijsaanbod.html.executor": "Run",
-    "JavaScript Debug.over mij.html.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/tibes/Documents/GitHub/tibesix.github.io",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.opdracht contact information.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht onderwijsaanbod.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.over mij.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tibes/Documents/GitHub/tibesix.github.io&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tibes\Documents\GitHub\tibesix.github.io\Labo 7\Opdracht 1" />
+      <recent name="C:\Users\tibes\Documents\GitHub\tibesix.github.io\Labo 7" />
+      <recent name="C:\Users\tibes\Documents\GitHub\tibesix.github.io\Labo 7\CSS" />
       <recent name="C:\Users\tibes\Documents\GitHub\tibesix.github.io\Labo 6\opdracht 6\CSS" />
       <recent name="C:\Users\tibes\Documents\GitHub\tibesix.github.io\Labo 6\opdracht 1\CSS" />
     </key>
@@ -110,7 +108,14 @@
       <workItem from="1729940990950" duration="1288000" />
       <workItem from="1729953198912" duration="675000" />
       <workItem from="1730225368563" duration="5000" />
-      <workItem from="1730880536268" duration="3428000" />
+      <workItem from="1730880536268" duration="3564000" />
+      <workItem from="1730884609376" duration="809000" />
+      <workItem from="1730900373438" duration="18000" />
+      <workItem from="1730908670585" duration="187000" />
+      <workItem from="1731426274947" duration="1116000" />
+      <workItem from="1731428595038" duration="398000" />
+      <workItem from="1731485760113" duration="205000" />
+      <workItem from="1731486228049" duration="4676000" />
     </task>
     <servers />
   </component>
