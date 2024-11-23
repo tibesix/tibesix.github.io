@@ -1,17 +1,29 @@
-* {
-    box-sizing: border-box;
-}
-
 body {
-    margin: 0;
-    padding: 0;
     font-family: Arial, sans-serif;
 }
 
-.column {
-    background-color: #f0f0f0;
-    width: calc(50% - 20px); /* 50% breedte min de marges van 10px aan beide zijden */
+.column1 {
+    width: calc(50% - 20px);
+    padding: 10px;
     margin: 10px;
-    padding: 20px;
-    float: left; /* Zorgt ervoor dat de kolommen naast elkaar staan */
+    border: 1px solid black;
+    float: left;
+    background-color: #f4f4f4;
+    box-sizing:border-box;
+}
+.column2 {
+    width: calc(50% - 20px);
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    float: right;
+    background-color: #f4f4f4;
+    box-sizing:border-box;
+}
+
+
+body::after {
+    content: "";
+    display: table;
+    clear: both;
 }

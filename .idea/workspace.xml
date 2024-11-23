@@ -5,21 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d478a807-6033-4a3a-85fb-3be022515402" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo 8/Opdracht 5/CSS/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8/Opdracht 5/opdracht 5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum extra space/CSS/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum/CSS/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum/Lorem ipsum.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8/Opdracht cocktail bar/CSS/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8/Opdracht cocktail bar/cocktail bar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8/opdracht 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8/opdracht 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8/opdracht 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8/opdracht 4/CSS/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8/opdracht 4/opdracht 4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 7/opdracht kalender/CSS/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 7/opdracht kalender/CSS/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 8/Opdracht 5/opdracht 5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 8/Opdracht 5/opdracht 5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum extra space/CSS/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum extra space/CSS/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum extra space/Lorem ipsum extra space.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum extra space/Lorem ipsum extra space.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum/Lorem ipsum.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum/Lorem ipsum.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 8/opdracht 4/opdracht 4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 8/opdracht 4/opdracht 4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +124,7 @@
       <workItem from="1732018136067" duration="341000" />
       <workItem from="1732090469331" duration="4571000" />
       <workItem from="1732260590895" duration="406000" />
-      <workItem from="1732373828966" duration="996000" />
+      <workItem from="1732373828966" duration="2902000" />
     </task>
     <servers />
   </component>
