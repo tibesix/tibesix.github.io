@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d478a807-6033-4a3a-85fb-3be022515402" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo 8/Opdracht 5/CSS/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/Opdracht 5/opdracht 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum extra space/CSS/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum/CSS/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum/Lorem ipsum.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/Opdracht cocktail bar/CSS/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/Opdracht cocktail bar/cocktail bar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/opdracht 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/opdracht 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/opdracht 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/opdracht 4/CSS/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/opdracht 4/opdracht 4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 7/opdracht kalender/CSS/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 7/opdracht kalender/CSS/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +66,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tibes\Documents\GitHub\tibesix.github.io\Labo 8" />
+      <recent name="C:\Users\tibes\Documents\GitHub\tibesix.github.io\Labo 8\Opdracht 1" />
       <recent name="C:\Users\tibes\Documents\GitHub\tibesix.github.io\Labo 7\Opdracht 1" />
       <recent name="C:\Users\tibes\Documents\GitHub\tibesix.github.io\Labo 7" />
       <recent name="C:\Users\tibes\Documents\GitHub\tibesix.github.io\Labo 7\CSS" />
-      <recent name="C:\Users\tibes\Documents\GitHub\tibesix.github.io\Labo 6\opdracht 6\CSS" />
-      <recent name="C:\Users\tibes\Documents\GitHub\tibesix.github.io\Labo 6\opdracht 1\CSS" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -113,7 +127,13 @@
       <workItem from="1731510412208" duration="1985000" />
       <workItem from="1731590589831" duration="349000" />
       <workItem from="1731658156430" duration="607000" />
-      <workItem from="1731676477046" duration="1589000" />
+      <workItem from="1731676477046" duration="2945000" />
+      <workItem from="1731759602796" duration="1520000" />
+      <workItem from="1731768559865" duration="3733000" />
+      <workItem from="1732018136067" duration="341000" />
+      <workItem from="1732090469331" duration="4571000" />
+      <workItem from="1732260590895" duration="406000" />
+      <workItem from="1732373828966" duration="996000" />
     </task>
     <servers />
   </component>

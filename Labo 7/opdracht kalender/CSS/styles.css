@@ -1,4 +1,3 @@
-/* Kalender Container */
 .kalender {
     border-collapse: collapse;
     width: 300px;
@@ -7,7 +6,7 @@
     border: 2px solid black;
 }
 
-/* Maand Kop */
+
 .maand-kop {
     background-color: rgb(170, 170, 200);
     color: rgb(200, 190, 240);
@@ -16,14 +15,13 @@
     padding: 5px 0;
 }
 
-/* Dag Headers */
+
 .kalender th {
     background-color: rgb(35, 37, 70);
     color: white;
     padding: 5px;
 }
 
-/* Kalender Cellen */
 .kalender td {
     width: 40px;
     height: 40px;
@@ -31,17 +29,17 @@
     border: 1px solid grey;
 }
 
-/* Weekend Styling */
+
 .kalender td:first-child, .kalender td:last-child {
     background-color: rgb(255, 220, 220);
 }
 
-/* Dagen van vorige/volgende maand */
+
 .andere-maand {
     color: grey;
 }
 
-/* Vrije dag styling (16 juni) */
+
 .vrije-dag {
     background-color: rgb(250, 120, 120);
     color: black;

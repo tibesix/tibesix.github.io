@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <title>Opdracht 3</title>
+</head>
+<body>
+<h1>Opdracht: CSS en Tekstcentrering</h1>
+
+<h2>1. Waarom staat de tekst in de blokken horizontaal gecentreerd?</h2>
+<p>
+  De tekst staat horizontaal gecentreerd omdat in de CSS is aangegeven:
+</p>
+<pre>
+div {
+    text-align: center;
+}
+    </pre>
+<p>
+  Dit zorgt ervoor dat alle tekst in <code>&lt;div&gt;</code>-elementen horizontaal gecentreerd wordt.
+</p>
+
+<h2>2. Waarom heeft <code>vertical-align: center</code> geen effect?</h2>
+<p>
+  <code>vertical-align</code> werkt alleen op inline, inline-block, of tabelcel-elementen.
+  De <code>.area</code>-blokken gebruiken <code>display: inline-block</code>, maar hun tekst wordt niet beïnvloed door deze property.
+</p>
+
+<h2>3. Waarom zorgt <code>vertical-align: middle</code> niet voor verticale centrering?</h2>
+<p>
+  <code>vertical-align: middle</code> positioneert elementen ten opzichte van andere inline of inline-block elementen,
+  maar het centreert de tekst niet binnen een block-element.
+</p>
+
+<h2>4. Wat doet <code>vertical-align</code> wel?</h2>
+<p>
+  <code>vertical-align</code> bepaalt de uitlijning van inline- of inline-block-elementen ten opzichte van elkaar.
+  Bijvoorbeeld voor afbeeldingen naast tekst.
+</p>
+
+<h2>5. Hoe centreer je één enkele regel tekst verticaal?</h2>
+<p>
+  Gebruik de <code>line-height</code> die gelijk is aan de hoogte van het element:
+</p>
+<pre>
+.area {
+    line-height: 100px; /* Gelijk aan de hoogte */
+    text-align: center;
+}
+    </pre>
+
+<h2>6. Hoe centreer je meerdere regels tekst verticaal?</h2>
+<p>
+  Gebruik <code>display: table-cell</code> en <code>vertical-align: middle</code>:
+</p>
+<pre>
+.area {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+    </pre>
+
+<h2>7. Waarom krijgt de regel voor <code>.tall</code> voorrang?</h2>
+<p>
+  De CSS-selector voor <code>.tall</code> is specifieker dan de algemene selector <code>.area</code>.
+  Specifiekere regels krijgen volgens de CSS-specificiteitsregels voorrang.
+</p>
+<p>
+  Test bijvoorbeeld deze regel, die nog specifieker is:
+</p>
+<pre>
+.area.tall {
+    height: 150px;
+}
+    </pre>
+</body>
+</html>

@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.column1 {
+    width: 50%;          /* Elke kolom neemt 50% van de breedte in */
+    padding: 10px;       /* Voeg padding toe */
+    border: 1px solid black;  /* Voeg een border toe */
+    float: left;         /* Zorg ervoor dat de kolommen naast elkaar komen */
+    background-color: #f4f4f4;
+    box-sizing: border-box;/* Voor een lichte achtergrondkleur */
+}
+.column2 {
+    width: 50%;
+    padding: 10px;
+    border: 1px solid black;  /* Voeg een border toe */
+    float: left;         /* Zorg ervoor dat de kolommen naast elkaar komen */
+    background-color: #f4f4f4; /* Voor een lichte achtergrondkleur */
+    box-sizing: border-box;
+}
+
+section {
+    margin: 0;
+    padding: 0;
+}

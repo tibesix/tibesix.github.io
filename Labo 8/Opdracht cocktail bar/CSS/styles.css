@@ -1,0 +1,129 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header img {
+    margin: 0;
+    padding: 0;
+}
+
+/* Main container layout */
+body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+section {
+    width: 70%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* Weekly specials sidebar */
+body > article {
+    width: 30%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* Main content styling */
+section h1 {
+    color: #007e7e;
+    border-bottom: thin solid #007e7e;
+    padding: 5px;
+}
+
+section article {
+    padding: 15px;
+}
+
+/* Background color for guarantee */
+#guarantee {
+    background-color: #a7cece;
+    padding: 25px;
+    padding-left: 80px;
+    margin: 30px;
+    border: thin solid white;
+    color: #444444;
+    font-style: italic;
+}
+
+/* Weekly specials styling */
+body > article h1 {
+    color: #000000;
+    border-bottom: none;
+}
+
+body > article h2 {
+    color: #007e7e;
+}
+
+body > article p {
+    color: #444444;
+}
+
+body > article img {
+    display: block;
+    margin: 10px 0;
+}
+
+/* What's playing section */
+section article h2 {
+    color: #007e7e;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    color: #444444;
+    margin: 10px 0;
+}
+
+/* Links styling */
+a:link, a:visited {
+    color: #007e7e;
+}
+
+a:hover {
+    background-color: #a7cece;
+}
+
+/* Footer styling */
+footer {
+    width: 100%;
+    text-align: center;
+    font-size: 90%;
+    color: #444444;
+    padding: 15px;
+    line-height: 1.5em;
+}
+
+/* Responsive design */
+@media screen and (max-width: 768px) {
+    section,
+    body > article {
+        width: 100%;
+    }
+}
+
+.cursief {
+    font-style: italic;
+}
+
+.vet {
+    font-weight: bold;
+}

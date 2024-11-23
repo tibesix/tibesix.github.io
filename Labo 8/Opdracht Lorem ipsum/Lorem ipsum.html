@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Layout Example</title>
+  <link rel="stylesheet" href="CSS/styles.css">
+</head>
+<body>
+<section class="column1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse imperdiet gravida erat et auctor. Vestibulum sit amet... </section>
+<section class="column2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse imperdiet gravida erat et auctor. Vestibulum sit amet... </section>
+
+<h1>Waarom staan de kolommen onder elkaar?</h1>
+
+<p>De kolommen staan onder elkaar in plaats van naast elkaar door de volgende redenen:</p>
+<ol>
+  <li><strong>Width op 47% instellen:</strong> Dit werkt niet goed omdat de kolommen dan samen 94% van de breedte innemen, waardoor er 6% extra lege ruimte aan de rechterkant is. Daarnaast kunnen de kolommen onder elkaar vallen op kleine schermen als de beschikbare breedte kleiner is dan de som van beide kolommen.</li>
+  <li><strong>Width op 550px instellen:</strong> Dit werkt niet goed op verschillende schermgroottes omdat 550px een vaste breedte is en de kolommen niet flexibel zijn. Ze passen niet meer naast elkaar als de breedte van het scherm kleiner is dan de totale breedte van beide kolommen.</li>
+</ol>
+
+<p><strong>Oplossing:</strong> De beste oplossing is het gebruik van de <code>box-sizing: border-box</code> eigenschap in CSS.</p>
+
+<h2>De oplossing met <code>box-sizing: border-box</code></h2>
+<p>Door <code>box-sizing: border-box</code> toe te voegen, zorgen we ervoor dat de padding en borders worden meegerekend in de breedte van de kolommen. Hierdoor kunnen de kolommen precies 50% van de breedte innemen, ongeacht de padding en borders.</p>
+
+<h3>HTML Layout</h3>
+<div style="width: 50%; padding: 10px; border: 1px solid black; float: left; background-color: #f4f4f4;">Kolom 1 - Lorem ipsum dolor sit amet.</div>
+<div style="width: 50%; padding: 10px; border: 1px solid black; float: left; background-color: #f4f4f4;">Kolom 2 - Suspendisse imperdiet gravida erat.</div>
+
+<!-- Clear om ervoor te zorgen dat de float niet de volgende elementen beïnvloedt -->
+<div style="clear: both;"></div>
+
+<h2>De juiste aanpak met box-sizing:</h2>
+<p>Door de kolommen een breedte van 50% te geven en ervoor te zorgen dat de padding en borders niet de breedte van de kolom vergroten, krijgen we een flexibele en nette layout.</p>
+
+<h3>Conclusie:</h3>
+<p>Door <code>box-sizing: border-box</code> te gebruiken, zorg je ervoor dat de padding en borders worden meegerekend in de breedte van de kolommen, waardoor ze altijd netjes naast elkaar staan, zelfs als het venster van grootte verandert.</p>
+
+</body>
+</html>
