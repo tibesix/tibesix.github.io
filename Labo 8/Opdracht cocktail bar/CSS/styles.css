@@ -14,12 +14,14 @@ header img {
 
 .container {
     width: 100%;
-    display: table;
-    table-layout: fixed;
+    display: flex; /* Gebruik flexbox voor layout */
+    justify-content: space-between; /* Ruimte tussen secties verdelen */
+    gap: 10px; /* Ruimte tussen de flex items */
 }
 
 .main-content, .weekly-specials {
-    display: table-cell;
+    display: flex;
+    flex-direction: column;
     vertical-align: top;
     padding: 10px;
     box-sizing: border-box;
@@ -27,7 +29,7 @@ header img {
 
 .main-content {
     width: 70%;
-    background-color: #e6f2ff;
+    background-color: #ffffff; /* Witte achtergrond */
     border: 1px solid #000080;
     color: #000080;
 }
@@ -35,21 +37,29 @@ header img {
 .weekly-specials {
     width: 30%;
     border: 1px solid #000080;
-    background-color: #cce6ff;
+    background-color: #ffffff; /* Witte achtergrond */
     color: #000080;
     text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Schaduw toevoegen */
 }
 
 h1 {
-    color: #ff6600;
+    color: #378480;
 }
 
 .weekly-specials h1 {
     color: #000000;
+    background-image: url("../images/cocktail.gif");
+    background-position: top center;
+    background-size:50px 50px;
+    padding-top: 50px;
+    background-repeat: repeat-x;
+
 }
 
+
 h2 {
-    color: #3399ff;
+    color: #378480;
 }
 
 .weekly-specials h2 {
@@ -73,10 +83,16 @@ footer {
 
 p#guarantee {
     margin: 30px;
-    padding: 20px;
+    padding-top: 25px;
     color: #444444;
     background-color: #a7cece;
-    border: 2px dotted #ffffff;
+    border: 1px dotted white;
+    background-image: url("../images/background.gif");
+    background-position: left center;
+    background-size:50px 50px;
+    background-repeat: no-repeat;
+    padding-left: 50px;
+    text-decoration: none;
 }
 
 ul li {
