@@ -1,5 +1,7 @@
 body {
+    font-family: Arial, sans-serif;
     background-color: #ffffff;
+    color: #000080;
 }
 
 header img {
@@ -12,37 +14,39 @@ header img {
 
 .container {
     width: 100%;
-    display: flex;
-    justify-content: space-between;
-    gap: 10px;
+    display: table; /* Gebruik table layout om secties naast elkaar te plaatsen */
+    table-layout: fixed; /* Zorg voor vaste kolombreedtes */
 }
 
 .main-content, .weekly-specials {
-    display: flex;
-    flex-direction: column;
-    vertical-align: top;
+    display: table-cell; /* Gebruik table-cell om kolommen te creëren */
+    vertical-align: top; /* Zorg ervoor dat de inhoud bovenaan wordt uitgelijnd */
     padding: 10px;
     box-sizing: border-box;
 }
 
 .main-content {
     width: 70%;
-    background-color: #ffffff;
+    background-color: #ffffff; /* Witte achtergrond */
     border: 1px solid #000080;
+    color: #000080;
 }
 
 .weekly-specials {
     width: 30%;
     border: 1px solid #000080;
-    background-color: #ffffff;
+    background-color: #ffffff; /* Witte achtergrond */
+    color: #000080;
     text-align: center;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Schaduw toevoegen */
 }
 
 h1 {
+    color: #378480;
 }
 
 .weekly-specials h1 {
+    color: #000000;
     background-image: url("../images/cocktail.gif");
     background-position: top center;
     background-size: 50px 50px;
@@ -51,9 +55,11 @@ h1 {
 }
 
 h2 {
+    color: #378480;
 }
 
 .weekly-specials h2 {
+    color: #fd0000;
 }
 
 a {
@@ -68,11 +74,13 @@ a:hover {
 footer {
     text-align: center;
     margin-top: 20px;
+    color: #000080;
 }
 
 p#guarantee {
     margin: 30px;
     padding-top: 25px;
+    color: #444444;
     background-color: #a7cece;
     border: 1px dotted white;
     background-image: url("../images/background.gif");
