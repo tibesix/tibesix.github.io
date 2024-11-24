@@ -6,11 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d478a807-6033-4a3a-85fb-3be022515402" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 8/Opdracht 5/opdracht 5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 8/Opdracht 5/opdracht 5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum extra space/CSS/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum extra space/CSS/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum extra space/Lorem ipsum extra space.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum extra space/Lorem ipsum extra space.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum/Lorem ipsum.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum/Lorem ipsum.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 8/opdracht 4/opdracht 4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 8/opdracht 4/opdracht 4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/over mij.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/over mij.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -52,6 +49,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -124,7 +122,12 @@
       <workItem from="1732018136067" duration="341000" />
       <workItem from="1732090469331" duration="4571000" />
       <workItem from="1732260590895" duration="406000" />
-      <workItem from="1732373828966" duration="2902000" />
+      <workItem from="1732373828966" duration="3015000" />
+      <workItem from="1732377045868" duration="722000" />
+      <workItem from="1732454987188" duration="58000" />
+      <workItem from="1732457486280" duration="1276000" />
+      <workItem from="1732459516489" duration="4000" />
+      <workItem from="1732461776338" duration="114000" />
     </task>
     <servers />
   </component>
