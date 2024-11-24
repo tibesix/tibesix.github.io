@@ -1,7 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
     background-color: #ffffff;
-    color: #000080;
 }
 
 header img {
@@ -14,9 +12,9 @@ header img {
 
 .container {
     width: 100%;
-    display: flex; /* Gebruik flexbox voor layout */
-    justify-content: space-between; /* Ruimte tussen secties verdelen */
-    gap: 10px; /* Ruimte tussen de flex items */
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
 }
 
 .main-content, .weekly-specials {
@@ -29,41 +27,33 @@ header img {
 
 .main-content {
     width: 70%;
-    background-color: #ffffff; /* Witte achtergrond */
+    background-color: #ffffff;
     border: 1px solid #000080;
-    color: #000080;
 }
 
 .weekly-specials {
     width: 30%;
     border: 1px solid #000080;
-    background-color: #ffffff; /* Witte achtergrond */
-    color: #000080;
+    background-color: #ffffff;
     text-align: center;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Schaduw toevoegen */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
-    color: #378480;
 }
 
 .weekly-specials h1 {
-    color: #000000;
     background-image: url("../images/cocktail.gif");
     background-position: top center;
-    background-size:50px 50px;
+    background-size: 50px 50px;
     padding-top: 50px;
     background-repeat: repeat-x;
-
 }
 
-
 h2 {
-    color: #378480;
 }
 
 .weekly-specials h2 {
-    color: #fd0000;
 }
 
 a {
@@ -78,18 +68,16 @@ a:hover {
 footer {
     text-align: center;
     margin-top: 20px;
-    color: #000080;
 }
 
 p#guarantee {
     margin: 30px;
     padding-top: 25px;
-    color: #444444;
     background-color: #a7cece;
     border: 1px dotted white;
     background-image: url("../images/background.gif");
     background-position: left center;
-    background-size:50px 50px;
+    background-size: 50px 50px;
     background-repeat: no-repeat;
     padding-left: 50px;
     text-decoration: none;
