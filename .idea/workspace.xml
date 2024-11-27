@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d478a807-6033-4a3a-85fb-3be022515402" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo 9/Opdracht 1/CSS/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/Opdracht 1/Opdracht 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/Opdracht 2/CSS/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/Opdracht 2/Opdracht 2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum/CSS/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum/CSS/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum/Lorem ipsum.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum/Lorem ipsum.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo 8/Opdracht cocktail bar/CSS/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 8/Opdracht cocktail bar/CSS/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +142,14 @@
       <workItem from="1732528051779" duration="1679000" />
       <workItem from="1732546125340" duration="916000" />
       <workItem from="1732615305079" duration="425000" />
+      <workItem from="1732628777494" duration="176000" />
+      <workItem from="1732635589982" duration="741000" />
+      <workItem from="1732643458557" duration="556000" />
+      <workItem from="1732694651824" duration="6086000" />
+      <workItem from="1732712428587" duration="1433000" />
+      <workItem from="1732713951135" duration="432000" />
+      <workItem from="1732715256809" duration="591000" />
+      <workItem from="1732717741446" duration="6554000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,151 @@
+/* Algemeen */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 95%;
+    margin: 0 auto;
+}
+
+h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Top sectie */
+.top {
+    height: 200px;
+    background-image: url("../images/bgsky3.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: darkblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.top h1 {
+    font-size: 300%;
+    font-weight: bold;
+    font-style: italic;
+    padding: 30px;
+}
+
+.top h2 {
+    font-size: 240%;
+    font-weight: bold;
+}
+
+.vliegtuig-afbeelding {
+    position: absolute;
+    right: 250px;
+    width: 200px; /* Zorg ervoor dat het vliegtuig vóór de tekst verschijnt */
+}
+
+/* Nieuws sectie */
+.news {
+    width: 25%;
+    background-color: #dddddd;
+    border: 1px solid #999999;
+    padding: 10px;
+    display: inline-block;
+    float:right;
+}
+
+.news h3 {
+    background-color: #0033fa;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+    padding: 5px;
+}
+
+.news p {
+    color: #666666;
+    font-size: 0.9em;
+    padding: 10px;
+}
+
+/* Main sectie zonder Flex */
+.main-content {
+    width: 75%;
+    padding: 10px;
+    float: left;
+}
+
+/* Introduction sectie */
+.introduction {
+    background-color: white;
+    color: black;
+    width: 70%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-right: 30px;
+    overflow: hidden; /* Zorgt ervoor dat de container rekening houdt met de floating elementen */
+}
+
+.introduction img {
+    float: left;
+    margin-top: 20px;
+    margin: 20px; /* 20px ruimte aan beide zijden */
+}
+
+.introduction .p {
+    text-align: center;
+}
+
+.introduction .highlight {
+    color: #004080; /* Blauwe tekst */
+    font-weight: bold; /* Vet */
+    font-style: italic; /* Cursief */
+}
+.gallery {
+    background-color: grey;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Zorgt voor 3 gelijke kolommen */
+}
+
+.foto {
+    display: inline-block;
+    width: 180px;
+    height: 180px;
+    margin: 10px;
+    background-color: #999999;
+}
+
+.foto img {
+    width: 90%;
+    height: auto;
+    border: 1px dotted #999999;
+    padding: 10px;
+    background-color: #ffffff;
+}
+
+/* Bottom sectie */
+.bottom {
+    background-color: #666666;
+    color: white;
+    line-height: 2em;
+    display: inline-block;
+    width: 50%;
+    box-sizing: border-box;
+    float: left;
+}
+
+.bottom a {
+    color: white;
+    text-decoration: none;
+}
+
+.bottom a:hover {
+    color: red;
+}
+
+/* Copyright sectie */
+.copyright {
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
