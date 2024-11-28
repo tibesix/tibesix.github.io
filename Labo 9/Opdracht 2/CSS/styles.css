@@ -135,7 +135,7 @@ h1, h2, h3, p {
 
 .bottom a {
     color: white;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .bottom a:hover {

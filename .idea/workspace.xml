@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d478a807-6033-4a3a-85fb-3be022515402" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo 9/Opdracht 1/CSS/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 9/Opdracht 1/Opdracht 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 9/Opdracht 2/CSS/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 9/Opdracht 2/Opdracht 2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum/CSS/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum/CSS/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum/Lorem ipsum.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 8/Opdracht Lorem ipsum/Lorem ipsum.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 8/Opdracht cocktail bar/CSS/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 8/Opdracht cocktail bar/CSS/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 9/Opdracht 2/CSS/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 9/Opdracht 2/CSS/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +49,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -149,7 +143,11 @@
       <workItem from="1732712428587" duration="1433000" />
       <workItem from="1732713951135" duration="432000" />
       <workItem from="1732715256809" duration="591000" />
-      <workItem from="1732717741446" duration="6554000" />
+      <workItem from="1732717741446" duration="6776000" />
+      <workItem from="1732724704129" duration="209000" />
+      <workItem from="1732724997450" duration="1343000" />
+      <workItem from="1732731917532" duration="262000" />
+      <workItem from="1732790117691" duration="583000" />
     </task>
     <servers />
   </component>
