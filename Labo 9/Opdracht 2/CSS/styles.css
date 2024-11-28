@@ -100,22 +100,28 @@ h1, h2, h3, p {
     font-style: italic; /* Cursief */
 }
 .gallery {
-    background-color: grey;
+    background-color: #999999; /* Background color between photos */
     padding: 20px;
     width: 70.8%;
 }
 
 .foto {
     display: inline-block;
-    width: 30%;
+    width: 30%; /* Three photos in a row */
     padding: 10px;
+    box-sizing: border-box;
+    margin-right: 20px; /* 20px gap between photo containers */
+    margin-bottom: 20px; /* 20px gap below each row of photos */
 }
 
 .foto img {
-    border: 1px dotted #999999;
+    width: 180px;
+    height: 180px;
+    border: 1px dotted #999999; /* 1px dotted border */
     padding: 10px;
-    background-color: #ffffff;
+    background-color: #ffffff; /* White background for each image */
 }
+
 
 /* Bottom sectie */
 .bottom {
