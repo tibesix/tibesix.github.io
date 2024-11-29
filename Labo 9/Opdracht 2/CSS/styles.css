@@ -1,4 +1,3 @@
-/* Algemeen */
 body {
     font-family: Arial, Helvetica, sans-serif;
     width: 95%;
@@ -10,7 +9,6 @@ h1, h2, h3, p {
     padding: 0;
 }
 
-/* Top sectie */
 .top {
     height: 200px;
     background-image: url("../images/bgsky3.jpg");
@@ -38,18 +36,17 @@ h1, h2, h3, p {
 
 .vliegtuig-afbeelding {
     position: absolute;
-    right: 250px;
-    width: 200px; /* Zorg ervoor dat het vliegtuig vóór de tekst verschijnt */
+    right: 350px;
+    width: 200px;
 }
 
-/* Nieuws sectie */
 .news {
     width: 25%;
     background-color: #dddddd;
     border: 1px solid #999999;
     padding: 10px;
     display: inline-block;
-    float:right;
+    float: right;
 }
 
 .news h3 {
@@ -66,14 +63,12 @@ h1, h2, h3, p {
     padding: 10px;
 }
 
-/* Main sectie zonder Flex */
 .main-content {
     width: 75%;
     padding: 10px;
     float: left;
 }
 
-/* Introduction sectie */
 .introduction {
     background-color: white;
     color: black;
@@ -81,13 +76,13 @@ h1, h2, h3, p {
     margin-top: 20px;
     margin-bottom: 20px;
     padding-right: 30px;
-    overflow: hidden; /* Zorgt ervoor dat de container rekening houdt met de floating elementen */
+    overflow: hidden;
 }
 
 .introduction img {
     float: left;
     margin-top: 20px;
-    margin: 20px; /* 20px ruimte aan beide zijden */
+    margin: 20px;
 }
 
 .introduction .p {
@@ -95,35 +90,34 @@ h1, h2, h3, p {
 }
 
 .introduction .highlight {
-    color: #004080; /* Blauwe tekst */
-    font-weight: bold; /* Vet */
-    font-style: italic; /* Cursief */
+    color: #004080;
+    font-weight: bold;
+    font-style: italic;
 }
+
 .gallery {
-    background-color: #999999; /* Background color between photos */
+    background-color: #999999;
     padding: 20px;
     width: 70.8%;
 }
 
 .foto {
     display: inline-block;
-    width: 30%; /* Three photos in a row */
+    width: 30%;
     padding: 10px;
     box-sizing: border-box;
-    margin-right: 20px; /* 20px gap between photo containers */
-    margin-bottom: 20px; /* 20px gap below each row of photos */
+    margin-right: 20px;
+    margin-bottom: 20px;
 }
 
 .foto img {
     width: 180px;
     height: 180px;
-    border: 1px dotted #999999; /* 1px dotted border */
+    border: 1px dotted #999999;
     padding: 10px;
-    background-color: #ffffff; /* White background for each image */
+    background-color: #ffffff;
 }
 
-
-/* Bottom sectie */
 .bottom {
     background-color: #666666;
     color: white;
@@ -143,7 +137,6 @@ h1, h2, h3, p {
     color: red;
 }
 
-/* Copyright sectie */
 .copyright {
     background-color: white;
     color: black;
