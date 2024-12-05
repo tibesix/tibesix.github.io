@@ -1,0 +1,60 @@
+body {
+	font: 1.2em/1.2 Helvetica, aria, sans-serif;
+	margin: 0 3%;
+}
+
+h1 {
+	font-size: 1.8em;
+	margin: .9em 0 0 0;
+}
+h2 {
+	font-size: 1.5em;
+	margin: 1.5em 0 0 0;
+}
+
+img {
+	max-width: 100%;
+}
+
+figure {
+	background: black;
+	border-radius: 5px;
+	color: red;
+	margin: 0 0 25px 0;
+	padding: 10px;
+	text-align: center;
+	
+}
+
+figcaption {
+	font-size: .8em;
+}
+
+
+/* Phones (< 768px) */
+@media (max-width: 768px) {
+	figure {
+		display: block;
+		float: none;
+	}
+}
+
+/* Tablets (>= 768px en < 992px) */
+@media (min-width: 768px) and (max-width: 992px) {
+	figure {
+		display: inline-block;
+		width: 45%; /* Twee figuren naast elkaar */
+		float: left;
+		margin: 0 2.5% 25px; /* Ruimte tussen de figuren */
+	}
+}
+
+/* Desktops (>= 992px) */
+@media (min-width: 992px) {
+	figure {
+		display: inline-block;
+		width: 25%; /* Drie figuren naast elkaar */
+		float: left;
+		margin: 0 1.5% 15px; /* Ruimte tussen de figuren */
+	}
+}

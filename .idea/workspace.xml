@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d478a807-6033-4a3a-85fb-3be022515402" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo 10/Oefening 3/CSS/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 10/Personal homepage/homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 10/Personal homepage/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 10/Personal homepage/test.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 9/Opdracht 2/CSS/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 9/Opdracht 2/CSS/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 9/Opdracht 2/Opdracht 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 9/Opdracht 2/Opdracht 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -33,34 +36,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.opdracht contact information.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht onderwijsaanbod.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.over mij.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/tibes/Documents/GitHub/tibesix.github.io&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.opdracht contact information.html.executor": "Run",
+    "JavaScript Debug.opdracht onderwijsaanbod.html.executor": "Run",
+    "JavaScript Debug.over mij.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/tibes/Documents/GitHub/tibesix.github.io/Labo 10/Personal homepage",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tibes\Documents\GitHub\tibesix.github.io\Labo 10\Personal homepage" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tibes\Documents\GitHub\tibesix.github.io\Labo 10\Oefening 3\CSS" />
       <recent name="C:\Users\tibes\Documents\GitHub\tibesix.github.io\Labo 8" />
       <recent name="C:\Users\tibes\Documents\GitHub\tibesix.github.io\Labo 8\Opdracht 1" />
       <recent name="C:\Users\tibes\Documents\GitHub\tibesix.github.io\Labo 7\Opdracht 1" />
       <recent name="C:\Users\tibes\Documents\GitHub\tibesix.github.io\Labo 7" />
-      <recent name="C:\Users\tibes\Documents\GitHub\tibesix.github.io\Labo 7\CSS" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -159,6 +165,14 @@
       <workItem from="1732818448873" duration="337000" />
       <workItem from="1732870388161" duration="85000" />
       <workItem from="1732886436480" duration="423000" />
+      <workItem from="1733300739353" duration="1656000" />
+      <workItem from="1733302467844" duration="2705000" />
+      <workItem from="1733305593895" duration="4833000" />
+      <workItem from="1733337869787" duration="1096000" />
+      <workItem from="1733339038701" duration="409000" />
+      <workItem from="1733339492632" duration="1329000" />
+      <workItem from="1733404238044" duration="1854000" />
+      <workItem from="1733414151969" duration="4971000" />
     </task>
     <servers />
   </component>
