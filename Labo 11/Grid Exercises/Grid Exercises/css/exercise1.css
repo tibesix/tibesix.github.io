@@ -1,0 +1,11 @@
+.container {
+    background-color: cornflowerblue;
+    display: grid; /* Zet de container in een grid-layout */
+    grid-template-columns: repeat(3, 1fr); /* Definieer 3 kolommen met gelijke breedte */
+    gap: 10px; /* Optioneel: ruimte tussen de grid-items */
+}
+
+.container .block {
+    padding: 50px;
+    background-color: white;
+}
