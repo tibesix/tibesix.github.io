@@ -1,0 +1,86 @@
+/* Algemene stijlen */
+html {
+    background-color: #333;
+    font-family: helvetica;
+}
+
+* {
+    padding: 10px;
+}
+
+/* Header en navigatie */
+header {
+    text-align: center;
+    background-color: #ddaa00;
+}
+
+header > a {
+    color: black;
+}
+
+nav {
+    background-color: grey;
+    padding: 5px 2px;
+    display: flex;
+    justify-content: center;
+}
+
+nav > a {
+    margin: 0 5px;
+    border: solid 1px #ccc;
+    flex-grow: 1;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+
+/* Inhoud */
+body {
+    font-size: 1em;
+    font-family: Helvetica;
+    margin: 5px;
+}
+
+h1 {
+    margin: 0;
+}
+
+img {
+    padding: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+section {
+    margin: 5px;
+    border: 2px white solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* Footer */
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #ddaa00;
+}
+
+footer > p > a {
+    color: black;
+}
+
+/* Tweede versie (meer dan 700px) */
+@media only screen and (min-width: 700px) {
+    main {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+    main > section {
+        justify-content: space-between;
+        width: 33%;
+    }
+}
