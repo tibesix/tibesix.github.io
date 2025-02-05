@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d478a807-6033-4a3a-85fb-3be022515402" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 12/Opdracht FlexBox/frontendmentorprofilecardBeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 12/Opdracht FlexBox/frontendmentorprofilecardBeginSituatie/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 12/Opdracht FlexBox/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 12/Opdracht FlexBox/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 10/Personal homepage/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 10/Personal homepage/homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 11/Extra oefening/Beginsituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 11/Extra oefening/Beginsituatie/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,27 +33,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.opdracht contact information.html.executor": "Run",
-    "JavaScript Debug.opdracht onderwijsaanbod.html.executor": "Run",
-    "JavaScript Debug.over mij.html.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/tibes/Documents/VIVES 2024-2025/Web Dev 1",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.opdracht contact information.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht onderwijsaanbod.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.over mij.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tibes/Documents/examen web dev 1&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\tibes\Documents\GitHub\tibesix.github.io\Labo 10\Personal homepage" />
@@ -180,6 +178,17 @@
       <workItem from="1734255842277" duration="1823000" />
       <workItem from="1734462512764" duration="688000" />
       <workItem from="1734509861781" duration="4117000" />
+      <workItem from="1734514691255" duration="31000" />
+      <workItem from="1734537675022" duration="804000" />
+      <workItem from="1734613818295" duration="2084000" />
+      <workItem from="1734617817343" duration="812000" />
+      <workItem from="1734619194294" duration="93000" />
+      <workItem from="1734965157238" duration="218000" />
+      <workItem from="1736523568441" duration="348000" />
+      <workItem from="1736861497874" duration="1060000" />
+      <workItem from="1736873961771" duration="2747000" />
+      <workItem from="1736925792028" duration="9533000" />
+      <workItem from="1737045157533" duration="2000" />
     </task>
     <servers />
   </component>
